@@ -1,5 +1,0 @@
-.env.local
-.env
-*.env
-target
-dist
